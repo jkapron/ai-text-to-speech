@@ -267,7 +267,7 @@ For more information on voice options, see the [OpenAI Text-to-Speech Voice Opti
 ### [☕️ Buy me a coffee](https://buymeacoffee.com/jkapron)  
 
 <a href="https://buymeacoffee.com/jkapron" title="Buy Me A Coffee">
-<img src="https://lumenum.com/jk_bmc_qr_2.png" />
+<img src="http://lumenum.com/jk_bmc_qr_2.png" />
 </a>
 
 ---
